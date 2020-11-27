@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/therajanmaurya/sweet-play-update.svg)](https://jitpack.io/#therajanmaurya/sweet-play-update)
+[![](https://jitpack.io/v/mikashboks/sweet-play-update.svg)](https://jitpack.io/#mikashboks/sweet-play-update)
 
 Usage
 -----
@@ -21,7 +21,7 @@ allprojects {
 ```gradle
 dependencies {
     Note use latest version on `JitPack`
-	implementation 'com.github.therajanmaurya:sweet-play-update:1.5.4'
+    implementation 'com.github.mikashboks:sweet-play-update:1.5.5'
 }
 ```
 
@@ -103,7 +103,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-For proper example, please checkout [this](https://github.com/therajanmaurya/sweet-play-update/blob/master/app/src/main/java/com/github/sweet/play/update/demo/MainActivity.kt)
+For proper example, please checkout [this](https://github.com/mikashboks/sweet-play-update/blob/master/app/src/main/java/com/github/sweet/play/update/demo/MainActivity.kt)
 
 ### Google Play Store
 <a href='https://play.google.com/store/apps/details?id=com.github.sweet.play.update.demo'><img alt='Get it on Google Play'
@@ -113,28 +113,24 @@ src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_gener
 
 ## Sweet Play Designs
 <table>
-  <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/main_dashboard.png"></td>
-  <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/bottom_sheet_dashboard.png"></td>
-  <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/bottom_sheet_play_update.png"></td>
+  <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/main_dashboard.png"></td>
+  <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/bottom_sheet_dashboard.png"></td>
+  <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/bottom_sheet_play_update.png"></td>
 </table>
 <table>
- <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/bottom_sheet_download_progress.png"></td>
-  <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/bottom_sheet_install_update.png"></td>
-  <td><img src="https://raw.githubusercontent.com/therajanmaurya/Sweet-Play-Update/master/art/bottom_sheet_install.png"></td>
+ <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/bottom_sheet_download_progress.png"></td>
+  <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/bottom_sheet_install_update.png"></td>
+  <td><img src="https://raw.githubusercontent.com/mikashboks/Sweet-Play-Update/master/art/bottom_sheet_install.png"></td>
 </table>
-
-# Design Inspiration
-
-Self developing projects
 
 # Developers
 
-* [Rajan Maurya](https://github.com/therajanmaurya)
+* [MiKashBoks](https://github.com/mikashboks)
 
 # License
 
 ```
-Copyright 2020 Rajan Maurya
+Copyright 2020 MiKashBoks
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -149,6 +145,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ```
-
-
 
